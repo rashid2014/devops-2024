@@ -1,1 +1,2 @@
 This is file 3 in local
+This is new line for feature branch
