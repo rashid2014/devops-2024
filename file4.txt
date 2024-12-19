@@ -1,2 +1,3 @@
 This is File4 from local repo
 This is new line for feature branch
+This is my new line to add
